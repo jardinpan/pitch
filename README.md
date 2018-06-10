@@ -13,3 +13,7 @@ A digital signal processing experiment on pitch tracking.
 ```
 
 ## Sample
+![](docs/sample01-01.png)
+![](docs/sample01-02.png)
+![](docs/sample02-01.png)
+![](docs/sample02-02.png)
